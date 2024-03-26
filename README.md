@@ -17,3 +17,18 @@ Um método para chamar o próximo veículo.
 
 Implementar métodos de visualização para mostrar os veículos na fila.
 Implementar um menu de usuário para permitir que o funcionário faça as operações do controle de borda.
+
+
+## Participantes
+
+### Enzo Guimarães Bevilaqua
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnzoGuimaraesBevilaqua) 
+
+### Antônio Lucas
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tony38700)
+
+### Ana Clara Baratinha
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naclara-batatinha)
+
+### Paulo Victor Frazão
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pvictorfrazao)
